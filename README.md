@@ -1,4 +1,6 @@
 # CSES-Solved-Problems
-This repository  contains all the solution to the CSES Problems
-Currently it is not finished, I am solving the CSES Problems and will add 
-the solved problem consequently.
+
+This repository  contains solution to the CSES Problems.
+
+This repository will be regularly updated until all the Problems in
+the CSES problems set are solved.
